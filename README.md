@@ -1,5 +1,4 @@
-# ahorcado
-Ahorcado - Hangman
+# Ahorcado - Hangman
 
 ////Español
 Este es el típico juego del ahorcado, nada nuevo.
