@@ -38,3 +38,9 @@ while palabra_lista != lista and fallos != 8:
 
 if fallos != 8:
     print("¡Has ganado!")
+
+xyz = 0
+
+while xyz == 0:
+    x = input("Pulsa enter para salir:  ")
+    xyz = 1
