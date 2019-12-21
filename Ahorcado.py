@@ -36,5 +36,5 @@ while palabra_lista != lista and fallos != 8:
     
     print(" ")
 
-if fallos != 10:
+if fallos != 8:
     print("¡Has ganado!")
